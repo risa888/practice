@@ -1,4 +1,13 @@
 {
+    "build": {
+        "@saveall": true
+    },
+    "general": {
+        "@stripws": true
+    },
+    "instance": {
+        "@automaticShutdown": "30"
+    },
     "language": {
         "tern_defs": {
             "json()": {

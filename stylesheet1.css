@@ -1,0 +1,240 @@
+@charset "utf-8";
+
+header {
+   width: 1600px; 
+   height: 124.600px;
+}
+body { 
+    display: inline-block;
+    margin: 0;
+}
+.header-main {
+    padding:  5px 30px 20px 100px;
+}
+.header-body {
+    margin: 22px 12.40px 16px 2.4px;
+    
+}
+.header-logo {
+    float: left;
+}
+.zaful-logo {
+    display: block;
+    width: 160px;
+}
+.description {
+   width: 350px;
+    margin-left: 15px;
+    float: left;
+    height: 32px;
+    line-height: 29px;
+    
+    
+}
+.dis {
+  margin: 0;  
+  padding: 0;
+  text-align: center;
+  font-size: 14px;
+
+}
+.icon2 {
+    float: left;
+    padding-top:4px;
+}
+span {
+    color: #33CC99;
+}
+
+.content {
+    float: right;
+    font-size: 20px;
+    margin-right: 30px;
+     line-height: 39px;
+    height: 39px;
+    /*border: 2px solid black;*/
+   
+    
+}
+
+.form-box {
+    display: flex;
+    height: 39px;
+    width: 400px;
+    border-radius: 3px 0 0 3px;
+    
+}
+.form-input {
+    border: none;
+    width: 364px;
+    height: 40px;
+    background-color: #f7f7f7;
+    border-radius: 3px 0 0 3px;
+}
+.form-button {
+    background-color: #444444;
+    border: none;
+    width: 60px;
+    border-radius: 3px;
+}
+.header-bottom {
+    width: 100%;
+    padding-top: 50px;
+}
+
+.header-list ul {
+    list-style-type: none;
+    line-height: 10px;
+    display: flex;
+    
+}
+.header-list ul li {
+    text-align: center;
+    width: 10%;
+    font-size: 14px;
+}
+.header-list ul li span {
+    font-weight: bold;
+    color: black;
+}
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav {
+    font-size: 18px;
+    width: 100%;
+    
+}
+
+
+.nav li {
+    /*float: left;*/
+    background-color: #f7f7f7;
+    width: 33.3%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.spe {
+    font-size: 13px;
+}
+.spe-1 {
+    font-size:13px;
+    text-align: right;
+}
+.imagez{
+    /*float: left;*/
+    width: 50%;
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+
+
+
+.main {
+    margin-bottom: 40px;
+    display: flex;
+}
+/*.imagess {*/
+    
+    /*float: left;*/
+    /*width: 50%;*/
+
+/*}*/
+.container {
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*----------footer------------*/
+
+footer {
+    background-color: #f7f7f7;
+    height: 210px; 
+    padding: 60px 60px;
+    /*border: 2px solid black;*/
+}
+.footer-list {
+    width: 100%;
+    
+}
+
+.container-1 {
+    font-size: 13px;
+    float: left;
+    margin: 0 35px 0 35px;
+    padding-left: 20px;
+    
+}
+.container-1 ul li {
+    padding-bottom: 5px;
+}
+.gogogo {
+    float: left;
+    margin-right: 20px;
+}
+.cus {
+    margin-bottom: 20px;
+}
+.cus-2 {
+    margin-top : 20px;
+}
+.footer-list ul{
+    list-style-type: none;
+}
+/********footer-******/
+
+.footer-form {
+    display: flex;
+}
+.footer-input {
+    /*border: 1px solid #2d2d2d;*/
+    font-size: 13px;
+    width: 290px;
+    height: 38px;
+}
+.footer-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 17px;
+}
+.logo-logo {
+    padding: 0 50px;
+    display: flex;
+}
+.gogo {
+    /*float: left;*/
+    margin-right: 20px;
+}
+
+.pay {
+    width: 1240px;
+    height: 31px;
+    padding: 0 125px;
+}
+.pay img{
+    width: 44px;
+    height: 18px;
+    margin: 0;
+}
+.pay ul {
+    list-style-type:  none;
+    display: flex;
+    
+}
+
+.pay-list {
+    height: 31px;
+    padding: 15px 0px 55px 0;
+}
+.pay-list p {
+    color: lightgray;
+    float: right;
+    font-size: 12px;
+    margin: 0;
+}
